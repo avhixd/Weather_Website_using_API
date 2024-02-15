@@ -1,1 +1,2 @@
 # Weather_Website_using_API
+Weather Dashboard is a dynamic and user-friendly web application that provides real-time weather information. Utilizing the OpenWeatherMap API, this application delivers accurate and up-to-date weather data based on the user's current geographical location. It features a clean, intuitive interface, displaying essential weather metrics such as temperature, humidity, wind speed, and sunrise/sunset times.
